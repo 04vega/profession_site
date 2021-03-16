@@ -1,0 +1,12 @@
+.img {
+	transition: 0.8s;
+}
+.img:hover {
+	transform: scale(1.05);
+}
+.shapka a {
+	color: white;
+}
+.shapka a:hover {
+	color: gray;
+}
